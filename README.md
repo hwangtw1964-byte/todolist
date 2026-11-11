@@ -5,6 +5,20 @@
 
 **▶ 바로 사용하기: https://hwangtw1964-byte.github.io/todolist/**
 
+## 스크린샷
+
+**데스크톱 (라이트 모드)**
+
+![데스크톱 라이트 모드 화면: 왼쪽 사이드바에 카테고리 메뉴, 위쪽에 진행률 대시보드, 가운데에 할 일 목록](screenshots/desktop-light.png)
+
+**데스크톱 (다크 모드)**
+
+![데스크톱 다크 모드 화면](screenshots/desktop-dark.png)
+
+**모바일**
+
+<img src="screenshots/mobile.png" alt="모바일 화면: 한 열로 쌓인 대시보드, 입력창, 할 일 목록" width="320">
+
 ## 주요 기능
 
 **할 일 관리**
